@@ -1,0 +1,27 @@
+
+======================================================
+============ Hackintosh Sierra Clover EFI ============
+============ Created by Hackintosher.com =============
+======================================================
+======================================================
+
+Fresh Install Guide: http://hackintosher.com/guides/guide-installing-macos-kabylake-hackintosh-sierra/
+
+Update to Sierra 10.12.6: http://hackintosher.com/guides/updating-hackintosh-sierra-10-12-6/
+
+======================================================
+Clover EFI works on Mac OS Sierra 10.13
+
+Install for UEFI Booting Only
+Install Clover in the ESP
+Emuefivariable.efi - Used for NVRAM/Graphics Detection
+OsxAptioFix2Drv-64.efi
+
+config.plist is configured for a Kaby Lake i7.
+ If using a Sky Lake CPU rename config.plist to config-Kabylake.plist and config-Skylake.plist to config.plist 
+If using a Haswell CPU CPU rename config.plist to config-Kabylake.plist and config-Haswsell.plist to config.plist 
+
+10.12.6 brought native support for many AMD graphic cards. Will work with AMD RX graphic cards except maybe RX 550. I tested a RX 560 and works perfectly even sleep/wake
+
+======================================================
+
