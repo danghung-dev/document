@@ -6,6 +6,13 @@
 - SSD: Samsung SSD 960 Evo
 - Monitor: Dual monitor Dell
 
+## Reference link
+- [Tonymacx86 buyer guide!](https://www.tonymacx86.com/buyersguide/june/2018/)
+- [Tonymacx86 installer guide!](https://www.tonymacx86.com/threads/unibeast-install-macos-high-sierra-on-any-supported-intel-based-pc.235474/)
+
+- [Hackintosher install guide!](https://hackintosher.com/guides/guide-installing-macos-kabylake-hackintosh-sierra/)
+- [Hackintosher install guide!](https://hackintosher.com/guides/high-sierra-install-full-guide/)
+
 ## Hackintosh Working
 
 # How to install
@@ -232,7 +239,7 @@
         <data>RYTJD5XAD7bAweAJRAnYRA==</data>
     </dict>
     ```
-# Tool
+# Fix bugs
 - Clover configurator
 
 # Audio & Micro
